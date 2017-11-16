@@ -1,0 +1,4 @@
+0,2,1,linear search
+0,2,1,binary search
+100,0,100,linear search
+100,0,7,binary search
